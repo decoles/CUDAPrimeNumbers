@@ -8,7 +8,7 @@ To run sequential using CUDA.
 ```
 ./Seq to run
 ```
-To comile Parallel Cuda portion .
+To compile Parallel Cuda portion .
 ```
 nvcc PrimeCudaPara.cu -o Para <-O3> #O3 is option as with the previous
 ```
